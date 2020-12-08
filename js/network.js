@@ -1,1 +1,0 @@
-import cytoscape from 'cytoscape';
